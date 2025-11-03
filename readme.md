@@ -28,8 +28,8 @@ You will:
 ### 1. Clone or download this repository
 
 ```bash
-git clone https://github.com/<your-org-or-username>/intro-to-python.git
-cd intro-to-python
+git clone https://github.com/crisjamir/PythonForKids
+cd PythonForKids
 ```
 
 If you don’t use Git, you can click **Code → Download ZIP**, extract it, and open it in VS Code.
