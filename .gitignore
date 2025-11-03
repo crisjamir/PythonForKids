@@ -1,2 +1,6 @@
 .venv/
 tinker.py
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.vscode/
